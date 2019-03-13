@@ -9,3 +9,5 @@ if(id(a) == id(c)):
  print("2) a 与 c 相同")
 else:
  print("2) a 与 c 不同")
+
+print("That's all")
